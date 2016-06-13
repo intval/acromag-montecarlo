@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acromag1", "acromag1\acromag1.csproj", "{2732B21C-0A1F-453B-A913-26D7B773C66F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonteCarlo", "MonteCarlo\MonteCarlo.csproj", "{930F835A-67E6-4911-BAE6-8E8C0A765729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{A9F89B3A-3CCF-4194-85C8-9978508FED95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2732B21C-0A1F-453B-A913-26D7B773C66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2732B21C-0A1F-453B-A913-26D7B773C66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2732B21C-0A1F-453B-A913-26D7B773C66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2732B21C-0A1F-453B-A913-26D7B773C66F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930F835A-67E6-4911-BAE6-8E8C0A765729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930F835A-67E6-4911-BAE6-8E8C0A765729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930F835A-67E6-4911-BAE6-8E8C0A765729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930F835A-67E6-4911-BAE6-8E8C0A765729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F89B3A-3CCF-4194-85C8-9978508FED95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F89B3A-3CCF-4194-85C8-9978508FED95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F89B3A-3CCF-4194-85C8-9978508FED95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F89B3A-3CCF-4194-85C8-9978508FED95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
